@@ -1,0 +1,6 @@
+@Mentoria_Db.api_HostAddress = http://localhost:5297
+
+GET {{Mentoria_Db.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
